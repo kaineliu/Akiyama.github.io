@@ -1,8 +1,8 @@
-title: Your awesome title
-description: balabala
+title: Akiyamas
+description: Homepage from author named Qiu Yueling/Akiyama Rin/Raymond Hawkins/R.H.Stephanie
 github_username: jekyll
 permalink: /:title.html
-timezone: Asia/Shanghai
+timezone: Europa/Berlin
 theme: minima
 plugins:
   - jekyll-feed
